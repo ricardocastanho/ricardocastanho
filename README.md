@@ -19,7 +19,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&logo=visual-studio-code)&nbsp;
 ![PostMan](https://img.shields.io/badge/-PostMan-05122A?style=flat&logo=postman)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![DBeavier](https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=dbeaver)&nbsp;
