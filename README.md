@@ -46,7 +46,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/castanhoricardo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/ucastanho/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 <a href="https://medium.com/@ricardosoares632"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
 <a href="mailto:ricardosoares632@gmail.com"><img src="https://img.shields.io/badge/-ricardosoares632@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
