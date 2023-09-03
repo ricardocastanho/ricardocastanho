@@ -8,9 +8,6 @@
 
 ### Analytics ⚙️
 
-<p align="left">
-<a href="https://github.com/ricardocastanho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocastanho&layout=compact&langs_count=8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ricardocastanho&count_private=true&show_icons=true"/>
-</a>
-</p>
+[![](https://raw.githubusercontent.com/ricardocastanho/ricardocastanho/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ricardocastanho/ricardocastanho/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ricardocastanho/ricardocastanho/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ricardocastanho/ricardocastanho/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ricardocastanho/ricardocastanho/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
