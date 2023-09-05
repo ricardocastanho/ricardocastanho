@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-### My name is Ricardo Castanho and I work as a Software Developer at [Jovens Gênios](https://www.jovensgenios.com/).
+### My name is Ricardo Castanho and I work as a Software Engineer at [Jovens Gênios](https://www.jovensgenios.com/).
 
 ![Snake animation](https://github.com/ricardocastanho/ricardocastanho/blob/output/github-contribution-grid-snake.svg)
 
